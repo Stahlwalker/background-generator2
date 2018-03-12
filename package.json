@@ -1,0 +1,23 @@
+{
+  "name": "background-generator2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stahlwalker/background-generator2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stahlwalker/background-generator2/issues"
+  },
+  "homepage": "https://github.com/Stahlwalker/background-generator2#readme"
+}
